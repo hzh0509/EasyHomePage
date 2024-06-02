@@ -1,5 +1,5 @@
 ---
 
-Badge: '造禅者说'
+Badge: 'Kudos'
 
 ---
