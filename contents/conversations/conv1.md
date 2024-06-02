@@ -1,6 +1,6 @@
 ---
-date: '2024-05'
+date: '2024-06-02'
 avatar: 'm1.png'
 ---
 
-这个人是我在 1987 年开发出来的，在 1998 年，我给他买了一台计算机，并在 2000 年的时候通过 56K 超高速调制解调器接入到互联网。
+Let me tell you about Henry. Born in '97, he stumbled upon his first online game, MapleStory, in 2003. That game was like a spell, drawing him into the world of gaming.
