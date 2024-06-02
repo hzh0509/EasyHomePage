@@ -1,9 +1,9 @@
 ---
 
-date: '2024-01'
-Title: '运营管理'
+date: '2024-06-02'
+Title: 'Chef'
 icon: 'bi-people'
 
 ---
 
-结合数据和用户数据，制定和管理运营策略，提升用户体验和产品价值。
+Tinkering with some Chinese cuisine at home, Hunan cuisine being the favorite.
