@@ -1,7 +1,7 @@
 ---
 date: 2024-06-02
 Title: Request: Play games online
-Subtitle: Invite him to play online games.
+Subtitle: Invite him to play online games
 Includes:
     - Play whatever you want
     - Fine stand-up comedy show
