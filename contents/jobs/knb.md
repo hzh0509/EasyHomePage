@@ -1,15 +1,16 @@
 ---
-date: '2006-06-28'
-title: '创始人'
-id: 'kenengba'
-company: '可能吧'
-range: '2006 - '
-url: 'https://kenengba.com/'
+date: '2015-09-01'
+title: 'Student'
+id: 'csu'
+company: 'Central South University'
+range: '2015 - 2019'
+url: 'https://www.csu.edu.cn/'
 ---
-一个从 2006 年开始创建的独立博客，获得过一些国内外的荣誉。包括：
 
-- 2012 World Communication Forum : Media of Future
-- 2010 GFW：被墙认证大奖
-- 2010 德国之声：年度最佳中文博客
-- 2009 搜狐：IT 新闻奖
+Central South University (CSU) is a public research-oriented comprehensive university in China.
+
+- Major: Digital Publishing
+- Core Courses: Digital Media Technology and Application, Digital Publishing Marketing and Management, Network Society and Network Culture.
+- Worked with the team on two short films: "Growing Up" and "More Than Meet With You," exploring the themes of personal growth and interpersonal relationships through visual narratives.
+- Thesis "Analysis of Online Game Marketing Strategy": Taking the popular online game "DNF" as the research object, deeply analyzed the marketing strategy of current online gaming.
   
