@@ -1,13 +1,13 @@
 ---
-date: '2012'
-title: '极客公园'
+date: '2016-06-12'
+title: 'Bilibili Channel'
 cover: 'geekpark.jpg'
-url: 'https://geekpark.net/'
+url: 'https://space.bilibili.com/755319/'
 tags:
-  - 媒体
-  - 线下活动
-  - 影响力
-  - 全栈啥都干
+  - Video
+  - Film editing
+  - Second creation  
 ---
 
-离开极客公园前，他是极客公园的 CEO 。2009 年加入《商业价值》杂志，与主编张鹏一起创立了极客公园，一个推崇「科技改变商业，极客改变世界」的商业组织，可以说，「极客」这个词在中国的普及，与极客公园密不可分。
+He has his own Bilibili channel, with an original section, "Comics We Read Years Ago," but updates are indefinitely stagnant because he's lazy.
+
