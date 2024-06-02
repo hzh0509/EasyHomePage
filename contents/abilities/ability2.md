@@ -6,4 +6,4 @@ icon: 'bi-bar-chart'
 
 ---
 
-Writes some boring Chinese web novels, purely as a personal hobby, and was once signed by Zongheng.com.
+Writes some boring Chinese web novels purely as a personal hobby and was once signed by Zongheng.com.
