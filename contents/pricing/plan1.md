@@ -11,5 +11,5 @@ Excludes:
     - Can not ensure victory
     - Possible to be a pressure boy
     - Refuse horror games
-Price: CNY 9.9
+Price: CNY 9.9 / month
 ---
