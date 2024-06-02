@@ -1,15 +1,15 @@
 ---
-date: 2024-05
-Title: 一起骑摩托车
-Subtitle: 约他一起骑车，一起去看看世界
+date: 2024-06-02
+Title: Request: Play games online
+Subtitle: Invite him to play online games.
 Includes:
-    - 路线建议服务
-    - 停歇时陪同抽烟
-    - 吃饭时一起吹牛
-    - 让你教他骑车
+    - Play whatever you want
+    - Fine stand-up comedy show
+    - Happy atmosphere
+    - You are responsible for the winning
 Excludes:
-    - 不提供摩托车
-    - 不帮你加油
-    - 住宿费用自理
-Price: 1 JN$
+    - Can not ensure victory
+    - Possible to be a pressure boy
+    - Refuse horror games
+Price: CNY 9.9
 ---
