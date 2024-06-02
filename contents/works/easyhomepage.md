@@ -1,13 +1,11 @@
 ---
-date: '2024-05'
-title: 'EasyHomepage'
-url: 'https://github.com/jason5ng32/EasyHomepage'
+date: '2016-06-18'
+title: 'Bilibili Channel'
+url: 'https://space.bilibili.com/755319/'
 tags:
-  - Javascript
-  - Vue
-  - Bootstrap
-  - Node.js
-  - UI Design
+  - Video
+  - Film Cut
+  - Second Creation
 ---
 
-本项目。一个可以使用 Markdown 语法自定义的主页框架。可以用于个人网站，也可以用作产品介绍页。
+His personal Bilibili channel, will be uploading some videos of my own making from time to time. Has a section called "Those Comics We Read Years Ago," but it stopped updating indefinitely because the author was too lazy.
