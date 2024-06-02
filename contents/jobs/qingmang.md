@@ -1,13 +1,10 @@
 ---
-date: '2018-06-28'
-id: 'qingmang'
-title: '合伙人'
-company: '轻芒'
-range: '2018 - 2019'
-url: 'https://qingmang.me/'
+date: '2019-06-28'
+id: 'zh'
+title: 'Novelist'
+company: 'The Celestial Swordman'
+range: '2019 - 2021'
+url: 'https://www.zongheng.com/detail/1047898'
 ---
 
-轻芒是一家创业公司，核心的业务包括轻芒阅读和低代码小程序搭建平台。
-
-- 探索微信生态里的用户增长方式，并复现
-- 将复现成功的增长方式，应用到小程序平台中
+- Published an online novel, "The Celestial Swordman," on zongheng.com and was signed by the site.
