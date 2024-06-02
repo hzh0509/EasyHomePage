@@ -11,5 +11,5 @@ Excludes:
     - No alcohol
     - No cigarettes
     - You decide what to eat
-Price: CNY 99
+Price: CNY 99 / month
 ---
