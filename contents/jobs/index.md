@@ -1,18 +1,18 @@
 ---
 
-Badge: '都谁用过'
-Title: '好不好都用过'
+Badge: 'Employers'
+Title: 'All say he's good.'
 
 ---
 
-如果阿禅是一款产品，那么他上线已经 30 多年了，阿禅的用户群体非常广泛。换句话说，也比较杂乱。
+As an adventurer, Henry has taken on many quests over the years, though most of them were low-level gigs.
 
-作为一款多功能的产品，用户们在使用的时候，会有不同的用法，包括：
+As a versatile adventurer, Henry's quests have included:
 
-* 作为创业者使用
-* 作为产品总监使用
-* 作为运营总监使用
-* 作为媒体老师使用
-* 作为摩托车手使用
-
-至于用起来觉得好不好，咱就不好说了，面子上总是要说好的。
+* Writing news reports
+* Writing media scripts
+* Writing comic book scripts
+* Writing web novels
+* Writing homework
+  
+It seems that Henry's skills are probably writing, and as far as how well he writes ... Anyway, no one has ever told him to his face that he's bad. Whether they've ever said it behind his back, well, he doesn't know.
