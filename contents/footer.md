@@ -2,7 +2,7 @@
 Title: Zihan
 Subtitle: A writer, gamer, and learner.
 ContactTitle: How to contact him?
-ContactSubtitle: 你可以通过多种联系方式找到他。基本上每个社交网络都有他的身影，但作为 30 多岁的老年人，他有时候会假装收不到你的信息然后不回复。所以，务必不要发一个「在吗」这样的信息，直接说你要什么就好了。
+ContactSubtitle: As someone who's practically glued to his phone, he'll reply to anyone's message almost instantly, unless he's asleep. Unfortunately, hardly anyone messages him. So, don't bother with a simple "Are you there?" Just bombard him with messages—he'll definitely respond!
 Social: [
     {
         name: "GitHub",
