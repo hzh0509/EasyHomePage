@@ -1,10 +1,11 @@
 ---
-date: '2023-08'
-title: 'Bochana'
-url: 'https://bochana.com'
+date: '2021-02-24'
+title: 'Birthday Project-Rescue the Chef Kingdom'
+url: 'https://hzh0509.github.io/HappyBirthday/'
 tags:
-  - ChatGPT
-  - Prototyping
+  - RPG Maker
+  - Birthday Gift
+  - Game Demo
 ---
 
-和两个朋友合伙，业余帮一些公司做关于 AI Coworker 的咨询。目前客户均为国外企业。
+A small game demo made with RPG Maker for a cute girl as a birthday present. Highly praised by her.
