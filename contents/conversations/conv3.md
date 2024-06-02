@@ -1,6 +1,6 @@
 ---
-date: '2024-03'
+date: '2024-06-02'
 avatar: 'g1.png'
 ---
 
-争气的是，这个人还算争气，没有沉迷游戏，而开始了建设网站。从那时起，阿禅就一直在网上活动，所做的事，基本上涵盖了建站的一切工作，包括：网站设计、服务器维护、文章写作、网站推广。
+After graduation, he landed not one but two jobs in Shanghai. While he didn’t score a role in a game company, he’s still living comfortably. His only regret is that he hasn't been able to find a girlfriend so far.
