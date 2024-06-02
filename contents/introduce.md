@@ -5,20 +5,20 @@ button: 'Link Start!'
 
 ---
 
-哟，冒险者，想来点什么？
+Hello, adventurer, looking for something?
 
-欢迎来到「Old Henry」这个人，aka: Zihan Huang的小酒馆。
+Welcome to the tavern of "Old Henry," aka Zihan Huang.
 
-来来来，这里有他的所有资料——从他的基本信息，到那些让你刮目相看的**Traits**和**Elements**，以及那些曾经雇佣过他的**Company**。你想知道的一切，这里都有。
+Come on in. Here, you'll find all his info—from basic details to impressive Traits and Elements, as well as the Companies that have hired him. Everything you want to know is right here.
 
-这个地方存在的意义？哈哈，不过是他在这个冒险世界里的痕迹罢了。
+The purpose of this place? Haha, it's just a trace of his journey in this adventurous world.
 
-在来一杯之前，有些事情要告诉你：
+Before you grab a drink, there are a few things to note:
 
-* 没有少儿不宜内容
-* 可以在冒险途中查看
-* 可以在营地休息时瞄一眼
-* 遇到怪物时请勿观看
-* 随时欢迎前来探索
-
-冒险者，以自己的意志，抵达结局吧。
+* No mature content
+* Accessible during your quests
+* Viewable while resting at camp
+* Do not watch while fighting monsters
+* Always open for exploration
+  
+Adventurer, follow your will and conclude!
