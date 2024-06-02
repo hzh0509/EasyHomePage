@@ -1,8 +1,8 @@
 ---
 
-date: '2024-02'
-Title: '品牌营销'
+date: '2024-06-02'
+Title: 'Comic Script Writer'
 icon: 'bi-shop'
 ---
 
-多年的个人品牌和产品品牌营销经验，对传播有独特的理解和实践。
+Serving as a main writer for the "Treasure Hunt" series and "Plants vs. Zombies" comics, writing scripts, and managing official social media accounts.
