@@ -1,13 +1,12 @@
 ---
-date: '2016-06-12'
-title: 'Bilibili Channel'
+date: '2021-06-15'
+title: 'Treasure Hunt-Small Theater'
 cover: 'geekpark.jpg'
-url: 'https://space.bilibili.com/755319/'
+url: '/'
 tags:
-  - Video
+  - Comics
   - Film editing
   - Second creation  
 ---
 
-He has his own Bilibili channel, with an original section, "Comics We Read Years Ago," but updates are indefinitely stagnant because he's lazy.
-
+"Treasure Hunt-Small Theater" is an important sub-section of the "Treasure Hunt" comic book series. It builds a humorous, everyday story through the human figures of the divine beasts.
