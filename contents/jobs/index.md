@@ -1,7 +1,7 @@
 ---
 
 Badge: 'Employers'
-Title: 'All say he's good.'
+Title: 'All say he is good.'
 
 ---
 
