@@ -1,10 +1,11 @@
 ---
 
-Badge: '代表产品'
-Title: '创造是糖'
+Badge: 'Core Production'
+Title: 'Love creating, but not learning.'
 
 ---
 
-这个人喜欢挑战自己，也喜欢不断吸收新知识，做过的产品比较多，做了后来消失了的也不少。
+He loves to create and dreams of becoming a great storyteller like Fujiko F. Fujio.
 
-对他来说，创造是一种快乐，也是一个生活方式。
+But he is too lazy and gives up as soon as he encounters a complex problem.
+
