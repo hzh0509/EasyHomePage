@@ -1,14 +1,14 @@
 ---
-date: '2014-06-28'
-title: '创始人'
-id: 'qingdan'
-company: '轻单'
-range: '2014 - 2015'
-url: 'https://qdan.me/'
+date: '2023-07-03'
+title: 'Student'
+id: 'su'
+company: 'Syracuse University'
+range: '2023 - 2024'
+url: 'https://www.syracuse.edu/?ref=cybrhome'
 ---
-第一次创业所做的产品，轻单。是一个希望提供结构化内容的创作者平台。创新工场投资。
+Syracuse University is a private research university located in Syracuse, New York, USA.
 
-- 作为产品经理角色创业
-- 作为 CEO，努力寻找融资
-- 作为运营角色进行公司管理
-- 作为黑手，最终创业失败
+- Core Courses: Advanced Media Business; Web Development & Design for Media; Content Management, Development & Innovation; The Changing Media Landscape.
+- Redesigned the i-Tree and Syracuse Poster Project homepages to address current design pain points. 
+- Dedicated to driving business growth through BeyondMeat, aims to boost brand awareness and reshape market perceptions to expand our media influence.
+- Participated in the school's No-code Hackathon event with a team of three classmates, designing a learning app called BookTalk for neurodiverse individuals. 
