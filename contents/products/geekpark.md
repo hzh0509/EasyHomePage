@@ -5,8 +5,8 @@ cover: 'geekpark.jpg'
 url: '/'
 tags:
   - Comics
-  - Film editing
-  - Second creation  
+  - Children Targeting
+  - Daily  
 ---
 
 "Treasure Hunt-Small Theater" is an important sub-section of the "Treasure Hunt" comic book series. It builds a humorous, everyday story through the human figures of the divine beasts.
