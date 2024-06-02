@@ -1,15 +1,14 @@
 ---
-date: '2009-06-28'
-title: 'CEO'
-id: 'geekpark'
-company: '极客公园'
-range: '2009 - 2014'
+date: '2018-06-28'
+title: 'Trainee journalist'
+id: 'czdaily'
+company: 'Changzhou Daily'
+range: '2018 - 2018'
 url: 'https://geekpark.net/'
 ---
-极客公园是中国最大的科技媒体之一，阿禅在 2009 年参与极客公园的成立，成为第一个员工，离开时担任 CEO。
+Changzhou Daily is a comprehensive daily newspaper in Changzhou City, Jiangsu Province, covering political, economic, social, and cultural news in Changzhou City and Jiangsu Province.
 
-- 从 0 - 1 创立极客公园内容团队
-- 从 0 - 1 创立极客公园产品团队
-- 策划许多传播量极广的内容和线下活动
-- 5 年来，帮助公司从一个部门，变成一家独立创业公司，从亏损到盈利
-- 管理数十人团队
+- Responsible for gathering materials and tracking hot news, editing magazine and publication content to ensure timeliness and accuracy.
+- Execute layout and text review, proofreading to ensure the quality of published content, assisting in drafting and copying tasks, and maintaining professional standards.
+- Assist in news gathering and conducting interviews, promptly organize first-hand information, and produce high-quality news content.
+- Actively participated in multiple local major events' interviews and content operations, co-authored over 30 articles with the team, and successfully published them.
