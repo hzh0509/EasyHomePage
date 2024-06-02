@@ -1,13 +1,12 @@
 ---
-date: '2010'
-title: '《商业价值》'
+date: '2019-02-24'
+title: 'Birthday Project: Rescue the Chef Kingdom'
 cover: 'bv.jpg'
-url: 'https://www.businessvalue.com.cn/'
+url: 'https://hzh0509.github.io/HappyBirthday/'
 tags:
-  - 媒体
-  - 内容
-  - 写作
-  - 传播
+  - RPG Maker
+  - Gaming
+ 
 ---
 
-《商业价值》是一本视「科技为商业第一生产力」的杂志，他是该客户端第一任的产品经理，将结构化阅读的理念做到了客户端里。其 iOS 客户端曾经被苹果官方推荐，并获得不错的排名。后来与《钛媒体》合并。
+"Birthday Project: Rescue the Chef Kingdom" was a birthday present made by RPG Maker for a lovely girl one year. It was highly praised.
