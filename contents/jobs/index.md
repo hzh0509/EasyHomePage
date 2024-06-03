@@ -15,4 +15,5 @@ As a versatile adventurer, Henry's quests have included:
 * Writing web novels
 * Writing homework
   
-It seems that Henry's skills are probably writing, and as far as how well he writes ... Anyway, no one has ever told him to his face that he's bad. Whether they've ever said it behind his back, well, he doesn't know.
+It seems that Henry's skills are probably writing, and as far as how well he writes... Anyway, no one has ever told him to his face that he's bad. <br>
+Whether they've ever said it behind his back, well, he doesn't know.

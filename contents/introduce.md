@@ -7,7 +7,7 @@ button: 'Link Start!'
 
 Hello, adventurer, looking for something?
 
-Welcome to the online bistro of Henry, aka Zihan Huang. Here, you'll find all his info—from basic details to impressive **Traits** and **Elements**, as well as the **Companies** that have hired him. 
+Welcome to the online bistro of Zihan Huang, aka Henry. Here, you'll find all his info—from basic details to impressive **Traits** and **Elements**, as well as the **Companies** that have hired him. 
 
 The purpose of this place? It's just a trace of his journey in this adventurous world.
 

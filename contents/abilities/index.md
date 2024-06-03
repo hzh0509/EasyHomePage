@@ -14,5 +14,5 @@ He has an understanding of what it means to point a skill, though, which leads t
 * Visual Narrative Orchestrator
 * Magical Cuisine Creator
 
-Is it hard to read? It's okay; it's just stated that way to appear professional.
+Is it hard to read? It's okay; it's just stated that way to appear professional.<br>
 In short, he is a new media operator, novelist, comic book writer, and cook (although the last bit isn't his real profession).
