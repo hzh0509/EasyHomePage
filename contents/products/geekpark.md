@@ -1,7 +1,7 @@
 ---
 date: '2021-06-15'
 title: 'Treasure Hunt-Small Theater'
-cover: 'geekpark.jpg'
+cover: 'st.png'
 url: '/'
 tags:
   - Comics

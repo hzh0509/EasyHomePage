@@ -1,9 +1,9 @@
 ---
 
 date: '2024-06-02'
-Title: 'Chef'
-icon: 'bi-people'
+Title: 'New Media Operation'
+icon: 'bi-collection-play-fill'
 
 ---
 
-Tinkering with some Chinese cuisine at home, Hunan cuisine being the favorite.
+Leading and managing e-sports news and content operations, enhancing brand exposure, and successfully increasing the "Super E-sports LOL" followers from 2 million to 3 million.

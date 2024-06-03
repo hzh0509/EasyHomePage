@@ -1,7 +1,7 @@
 ---
 date: '2019-06-15'
 title: 'The Celestial Swordman'
-cover: 'knb.jpg'
+cover: 'tcs.png'
 url: 'https://www.zongheng.com/detail/1047898/'
 tags:
   - Novel

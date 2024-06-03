@@ -2,7 +2,7 @@
 
 date: '2024-06-02'
 Title: 'Novelist'
-icon: 'bi-bar-chart'
+icon: 'bi-book'
 
 ---
 

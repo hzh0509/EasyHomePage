@@ -1,7 +1,7 @@
 ---
 date: '2021-06-15'
 title: 'Treasure Hunt-Power Station'
-cover: 'bv.jpg'
+cover: 'ps.png'
 url: '/'
 tags:
   - Comics

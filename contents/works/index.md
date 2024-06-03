@@ -1,5 +1,5 @@
 ---
 
-Badge: '业余的贡献'
+Badge: 'Side Hustle'
 
 ---

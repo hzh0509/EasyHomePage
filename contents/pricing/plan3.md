@@ -1,14 +1,15 @@
 ---
-date: 2024-06-03
-Title: Request-Long term cooperation
-Subtitle: Provide long-term emotional value offering
+date: 2024-06-02
+Title: Request-Play games online
+Subtitle: Invite him to play online games
 Includes:
-    - Breakup consolation
-    - Unemployment consolation
-    - Relationship counseling
-    - Traveling invitation
-    - Study supervision
-    - Insulting your boss and company
-    - First two services included
-Price: CNY 999 / month
+    - Play whatever you want
+    - Fine stand-up comedy show
+    - Happy atmosphere
+    - You are responsible for the winning
+Excludes:
+    - Can not ensure victory
+    - Possible to be a pressure boy
+    - Refuse horror games
+Price: CNY 9.9 / month
 ---
