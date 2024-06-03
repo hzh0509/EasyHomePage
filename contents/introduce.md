@@ -1,5 +1,5 @@
 ---
-name: 'Zihan Huang (Henry)'
+name: 'Zihan Huang'
 subtitle: 'An uninspired novelist, lost traveler.'
 button: 'Link Start!'
 
@@ -7,11 +7,9 @@ button: 'Link Start!'
 
 Hello, adventurer, looking for something?
 
-Welcome to the tavern of "Old Henry," aka Zihan Huang.
+Welcome to the online bistro of Henry, aka Zihan Huang. Here, you'll find all his info—from basic details to impressive **Traits** and **Elements**, as well as the **Companies** that have hired him. 
 
-Come on in. Here, you'll find all his info—from basic details to impressive Traits and Elements, as well as the Companies that have hired him. Everything you want to know is right here.
-
-The purpose of this place? Haha, it's just a trace of his journey in this adventurous world.
+The purpose of this place? It's just a trace of his journey in this adventurous world.
 
 Before you grab a drink, there are a few things to note:
 
