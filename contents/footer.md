@@ -29,6 +29,11 @@ Social: [
         icon: "wechat",
         url: "http://r.photo.store.qq.com/psc?/V10pqIOh4FDWaS/05RlWl8gsTOH*Z17MtCBzCwa7tlPXN7SU7LynPRwpWeONb8cv5jdbtJ.cWn6gYyUsE2.sFooZetTkbidgKKIDQ!!/o&ek=1&kp=1&pt=0&bo=OAS3BTgEtwUWADA!&tl=1&tm=1717383600&dis_t=1717384041&dis_k=a01e386e015112fc161791062c2ea335&sce=0-12-12&rf=viewer_311"
     },
+ {
+        name: "Steam",
+        icon: "steam",
+        url: "https://steamcommunity.com/id/hzh0509/"
+    },
    ]
 
 ---
