@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Henry/Zihan's Online Bistro" />
+  <title>Henry/Zihan's Online Bistro</title>
+  <link rel="icon" href="./logos/logo.png">
+  <link rel="icon" type="image/svg+xml" href="favicon.ico">
+
+  <style>
+    .jn-spinner {
+      border: 4px solid rgb(115, 17, 145);
+      width: 20px;
+      height: 20px;
+      border-radius: 50%;
+      border-left-color: transparent;
+      animation: spin 1s linear infinite;
+    }
+
+    .jn-loading {
+      margin-top: 30vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .jn-spinner-text {
+      margin-top: 10px;
+      text-align: center;
+    }
+
+    .jn-spinner-text p {
+      font-size: 14px;
+      color: #777;
+    }
+
+    @keyframes spin {
+      0% {
+        transform: rotate(0deg);
+      }
+
+      100% {
+        transform: rotate(360deg);
+      }
+    }
+  </style>
+  <script type="module" crossorigin src="./assets/index-kFlBMcrS.js"></script>
+  <link rel="modulepreload" crossorigin href="./assets/vendor-BJv-xFCn.js">
+  <link rel="stylesheet" crossorigin href="./assets/index-C76qMmbA.css">
+</head>
+
+<body>
+  <div id="jn-loading" class="jn-loading">
+    <div class="jn-spinner "></div>
+    <div class="jn-spinner-text">
+      <p>Loading...</p>
+    </div>
+  </div>
+  <div id="app"></div>
+</body>
+
+</html>
