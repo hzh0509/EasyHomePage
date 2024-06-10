@@ -1,7 +1,7 @@
 ---
 date: 2024-06-02
 Title: Play games online
-Subtitle: Invite him to play online games
+Subtitle: Games are the best things on this planet, indeed.
 Includes:
     - Play whatever you want
     - Fine stand-up comedy show

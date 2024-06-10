@@ -1,7 +1,7 @@
 ---
 date: 2024-04-03
 Title: Long term cooperation
-Subtitle: Provide long-term emotional value offering
+Subtitle: Provide long-term emotional value offering, anytime, anywhere.
 Includes:
     - Breakup consolation
     - Unemployment consolation

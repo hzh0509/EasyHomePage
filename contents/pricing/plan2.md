@@ -1,7 +1,7 @@
 ---
 date: 2024-05-02
 Title: Have lunch together
-Subtitle: Have dinner together and talk about everything
+Subtitle: Talk about everything, maybe have a citywalk afterwards.
 Includes:
     - Talk about everything offline
     - Listen to your worries
