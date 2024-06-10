@@ -6,10 +6,10 @@ Includes:
     - Play whatever you want
     - Fine stand-up comedy show
     - Happy atmosphere
-    - You are responsible for the winning
+    - Ongoing Praise
 Excludes:
     - Can not ensure victory
-    - Possible to be a pressure boy
+    - Possible to play badly
     - Refuse horror games
 Price: CNY 9.9 / month
 ---
