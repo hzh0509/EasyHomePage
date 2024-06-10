@@ -20,7 +20,7 @@
         <div class="jn-footer-placeholder">
             {{ attributes.Title }}
             &copy;
-            {{year}} , Template by <a href="https://github.com/jason5ng32">Jason Ng</a>
+            {{year}} , Template by&nbsp;<a href="https://github.com/jason5ng32">Jason Ng</a>
         </div>
     </div>
 
