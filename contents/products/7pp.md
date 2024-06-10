@@ -1,0 +1,12 @@
+---
+date: '2024-06-15'
+title: 'PlayPal - An Online Game Teammate Matching App'
+cover: 'pp.jpeg'
+url: 'https://hzh0509.wixsite.com/playpal'
+tags:
+  - Web Design
+  - APP Design
+  - Product Management
+---
+
+PlayPal is an online social platform that uses AI algorithms and customizable filters to help gamers find the perfect teammates. He designed and developed the app with his friends Hongjian Yu and Fan Shi.

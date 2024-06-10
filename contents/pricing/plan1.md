@@ -1,6 +1,6 @@
 ---
 date: 2024-04-03
-Title: Request-Long term cooperation
+Title: Long term cooperation
 Subtitle: Provide long-term emotional value offering
 Includes:
     - Breakup consolation

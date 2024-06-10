@@ -1,6 +1,6 @@
 ---
 date: 2024-06-02
-Title: Request-Play games online
+Title: Play games online
 Subtitle: Invite him to play online games
 Includes:
     - Play whatever you want

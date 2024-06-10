@@ -19,4 +19,4 @@ Before you grab a drink, there are a few things to note:
 * Do not watch while fighting monsters
 * Always open for exploration
   
-Adventurer, follow your will and conclude!
+Adventurer, may this journey lead us starward!

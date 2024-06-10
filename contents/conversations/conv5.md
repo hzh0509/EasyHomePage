@@ -16,6 +16,5 @@ This guy likes to research new things and hang out with friends. He spends all h
 * Trend chaser
 * Tech wizard
 * Basketball lover
-* Easy to give up
 * Impulse buying
 * OCD

@@ -1,6 +1,6 @@
 ---
 date: 2024-05-02
-Title: Request-Have lunch together
+Title: Have lunch together
 Subtitle: Have dinner together and talk about everything
 Includes:
     - Talk about everything offline
