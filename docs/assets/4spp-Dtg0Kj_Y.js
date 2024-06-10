@@ -1,0 +1,3 @@
+const e={date:"2023-12-1",title:"Syracuse Poster Project Homepage Redesign",cover:"spp.jpeg",url:"/",tags:["Web Development","HTML"]},t=`<p>The Syracuse Poster Project celebrates local artists by creating vibrant, community-inspired posters that beautify the city. He redesigned their homepage to enhance user experience and better showcase their stunning artwork.</p>
+`,r=`The Syracuse Poster Project celebrates local artists by creating vibrant, community-inspired posters that beautify the city. He redesigned their homepage to enhance user experience and better showcase their stunning artwork.\r
+`;export{e as attributes,t as html,r as markdown};

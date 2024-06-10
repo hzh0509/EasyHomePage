@@ -1,0 +1,2 @@
+const e={date:"2023-03-05",title:"BookTalk No-Code App UI Design",cover:"booktalk.png",url:"https://zihan-huangs-team.adalo.com/e-learning-app-app",tags:["No-Code","Adalo","UI Design"]},a=`<p>At Syracuse University, He designed the UI for BookTalk, a learning app for the neurodiverse community, during a 7-day No-Code Hackathon with classmates.</p>
+`,o="At Syracuse University, He designed the UI for BookTalk, a learning app for the neurodiverse community, during a 7-day No-Code Hackathon with classmates.";export{e as attributes,a as html,o as markdown};
