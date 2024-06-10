@@ -5,7 +5,7 @@ button: 'Link Start!'
 
 ---
 
-Hello, adventurer, looking for something?
+Hello, traveler, looking for something?
 
 Welcome to the online bistro of Zihan Huang, aka Henry. Here, you'll find all his info—from basic details to impressive **Traits** and **Elements**, as well as the **Companies** that have hired him. 
 
@@ -19,4 +19,4 @@ Before you grab a drink, there are a few things to note:
 * Do not watch while fighting monsters
 * Always open for exploration
   
-Adventurer, may this journey lead us starward!
+Traveler, may this journey lead us starward!
