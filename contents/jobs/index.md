@@ -5,9 +5,9 @@ Title: 'All say he is good.'
 
 ---
 
-As an adventurer, Henry has taken on many quests over the years, though most of them were low-level gigs.
+As a traveler, Henry has taken on many quests over the years, though most of them were low-level gigs.
 
-As a versatile adventurer, Henry's quests have included:
+Henry's quests have included:
 
 * Writing news reports
 * Writing media scripts
