@@ -8,5 +8,6 @@ Works: 'Works'
 Pricing: 'Pricing'
 Footer: 'Contact'
 AgeTitle: 'Version is Age'
+ToggleNavigation: 'Toggle navigation'
 Name: 'ZH'
 ---

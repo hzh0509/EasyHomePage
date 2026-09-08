@@ -1,9 +1,15 @@
-name: Deploy Vue App
+name: Deploy Bilingual Vue App
 
 on:
   push:
     branches:
-      - main # 监听 main 分支的提交
+      - homepage1
+    paths-ignore:
+      - 'docs/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build-and-deploy:
@@ -12,7 +18,8 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # 确保 git 历史被完整获取，以便用于版本推送
+          fetch-depth: 0
+          ref: homepage1
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
@@ -22,19 +29,13 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Build
+      - name: Build English and Chinese sites
         run: npm run build
 
-      - name: Commit docs directory
+      - name: Commit generated site
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add docs
-          git commit -m "Deploy new documentation" -a || echo "No changes to commit"
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: homepage1 # 推送到 homepage1 分支
-          force: true
+          git diff --cached --quiet || git commit -m "Deploy bilingual site"
+          git push origin HEAD:homepage1

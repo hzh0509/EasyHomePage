@@ -5,7 +5,10 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "dev:cn": "vite --mode cn",
+    "build": "node scripts/prepare-build.js && vite build --mode en && vite build --mode cn && node scripts/finalize-build.js",
+    "build:en": "vite build --mode en",
+    "build:cn": "vite build --mode cn",
     "preview": "vite preview",
     "start": "node server.js"
   },
