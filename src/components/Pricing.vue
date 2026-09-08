@@ -41,7 +41,7 @@
         <div id="toastInfoMask" class="toast" role="alert" ref="toastEl" aria-live="assertive" aria-atomic="true">
             <div class="toast-header">
                 <strong class="me-auto" :class="alert.alertStyle">{{ alert.alertTitle }}</strong>
-                <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+                <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="关闭"></button>
             </div>
             <div class="toast-body">
                 {{ alert.alertMessage }}

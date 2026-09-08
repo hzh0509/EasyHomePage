@@ -1,9 +1,9 @@
 ---
 
 date: '2024-06-02'
-Title: 'New Media Operation'
+Title: '新媒体运营'
 icon: 'bi-collection-play-fill'
 
 ---
 
-Leading and managing e-sports news and content operations, enhancing brand exposure, and successfully increasing the "Super E-sports LOL" followers from 2 million to 3 million.
+负责电竞新闻与内容运营的策划和管理，提升品牌曝光，并曾将“超凡电竞LOL”账号粉丝量从 200 万提升至 300 万。

@@ -1,16 +1,16 @@
 ---
 date: '2021-06-15'
-title: 'Script Writer'
+title: '编剧'
 id: 'jd'
-company: 'Shanghai Jing Ding Animation Technology Co., Ltd.'
+company: '上海京鼎动漫科技有限公司'
 range: '2021 - 2023'
 url: 'http://dzhxbj.com/'
 ---
-Shanghai Jing Ding Animation Technology Co., Ltd. was founded in early 1998, has a history of more than twenty years in the animation industry, and is one of the earliest rising animation companies in China.
+上海京鼎动漫科技有限公司成立于 1998 年初，在动漫行业深耕二十余年，是中国较早发展起来的动漫企业之一。
 
-- As the key content creator for the "Treasure Hunt" series, plan and write scripts for the "Power Station" and "Small Theater" subseries.
-- Responsible for adapting the popular game IP "Plants vs. Zombies" into comic scripts.
-- Wrote and published volumes 7-12 of "Power Station" and 5-7 of "Small Theater," with an initial print run of 100,000 copies.
-- Created scripts for volumes 57-62 of "Plants vs. Zombies Science Comics" and 21 of the robot series.
-- Managed the official WeChat account "Treasure Hunt," boosting fan numbers through high-quality content and interaction.
-- Planned content and wrote scripts for the official Douyin account, producing 61 short videos, gaining 250,000 likes, and a top video view count of over 1 million.
+- 作为《大中华寻宝记》系列的核心内容创作者，参与策划并编写《神兽发电站》《神兽小剧场》等子系列脚本。
+- 负责将热门游戏 IP《植物大战僵尸》改编为漫画脚本。
+- 编写并出版《神兽发电站》7–12 册及《神兽小剧场》5–7 册，首印 10 万册。
+- 创作《植物大战僵尸·科学漫画》57–62 册及机器人系列第 21 册脚本。
+- 运营《大中华寻宝记》官方微信公众号，通过优质内容与互动提升粉丝数量。
+- 策划并编写官方抖音账号内容，共制作 61 条短视频，累计获得 25 万点赞，单条最高播放量超过 100 万。

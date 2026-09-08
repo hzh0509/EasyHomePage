@@ -1,14 +1,14 @@
 ---
 date: 2024-04-03
-Title: Long term cooperation
-Subtitle: Provide long-term emotional value offering, anytime, anywhere.
+Title: 长期合作
+Subtitle: 长期提供情绪价值，随时随地在线。
 Includes:
-    - Breakup consolation
-    - Unemployment consolation
-    - Relationship counseling
-    - Traveling invitation
-    - Study supervision
-    - Insulting your boss and company
-    - First two services included
-Price: CNY 999 / month
+    - 失恋安慰
+    - 失业安慰
+    - 情感咨询
+    - 旅行邀约
+    - 学习监督
+    - 陪你吐槽老板和公司
+    - 前两项服务包含在内
+Price: 人民币 999 元 / 月
 ---

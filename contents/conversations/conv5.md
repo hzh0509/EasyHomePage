@@ -2,19 +2,19 @@
 date: '2024-06-02'
 avatar: 'm3.png'
 ---
-This guy likes to research new things and hang out with friends. He spends all his few paychecks on messing around with new technology and the rest on treating friends to dinner. If you were to label him, these would be perfect:
+这家伙喜欢研究新东西，也喜欢和朋友到处玩。为数不多的工资基本都拿去折腾新科技，剩下的就用来请朋友吃饭。真要给他贴几个标签，大概是这些：
 
-* A Changzhou native
-* Shanghai drifter
-* Under-achieving
-* Never have savings
-* Single
+* 常州人
+* 沪漂
+* 没什么大成就
+* 从来攒不下钱
+* 单身
 * ISFP
-* Otaku
-* Tech enthusiast
-* Gaming aficionado
-* Trend chaser
-* Tech wizard
-* Basketball lover
-* Impulse buying
-* OCD
+* 宅男
+* 科技爱好者
+* 游戏发烧友
+* 潮流追随者
+* 科技魔法师
+* 篮球爱好者
+* 冲动消费
+* 强迫症

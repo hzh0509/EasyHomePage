@@ -1,14 +1,14 @@
 ---
 date: '2018-06-28'
-title: 'Trainee journalist'
+title: '实习记者'
 id: 'czdaily'
-company: 'Changzhou Daily'
+company: '常州日报'
 range: '2018 - 2018'
 url: 'https://geekpark.net/'
 ---
-Changzhou Daily is a comprehensive daily newspaper in Changzhou City, Jiangsu Province, covering political, economic, social, and cultural news in Changzhou City and Jiangsu Province.
+《常州日报》是江苏省常州市的综合性日报，报道常州及江苏省内的政治、经济、社会和文化新闻。
 
-- Responsible for gathering materials and tracking hot news, editing magazine and publication content to ensure timeliness and accuracy.
-- Execute layout and text review, proofreading to ensure the quality of published content, assisting in drafting and copying tasks, and maintaining professional standards.
-- Assist in news gathering and conducting interviews, promptly organize first-hand information, and produce high-quality news content.
-- Actively participated in multiple local major events' interviews and content operations, co-authored over 30 articles with the team, and successfully published them.
+- 负责素材收集及热点新闻跟进，编辑报刊内容，确保信息的时效性与准确性。
+- 执行版面和文字审核、校对工作，保障出版内容质量，并协助完成稿件撰写与文案工作。
+- 协助新闻采集与采访，及时整理一手资料并产出高质量新闻内容。
+- 参与多场本地重大活动的采访与内容运营，与团队共同完成并发表 30 余篇稿件。

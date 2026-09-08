@@ -1,16 +1,16 @@
 ---
 date: '2019-06-28'
-title: 'New Media Operator'
+title: '新媒体运营'
 id: 'chaofan'
-company: 'Shanghai NANA Technology Co.'
+company: '上海纳纳科技有限公司'
 range: '2019 - 2020'
 url: 'https://weibo.com/u/2571217862'
 ---
 
-Chaofan Esports is a gaming information station covering a wide range of popular games, providing tournament data, videos, guidance, and more.
+超凡电竞是一家覆盖多款热门游戏的电竞资讯平台，提供赛事数据、视频、攻略等内容。
 
-- Successfully led the collection, editing, translation, and publishing of e-sports news, focusing on original game strategies and guide articles.
-- Planned and executed special reports, focusing on current events and significant e-sports events, effectively enhancing brand exposure and public attention.
-- Increasing "Chaofan E-sports LOL" Weibo account followers from 2 million to 3 million and winning the "Weibo 2019 Top 10 Game Influencer."
-- Cooperating with LOL China official, produced the official League of Legends esports column "Super Preview."
-- Some featured articles have received over 400,000 views across the internet.
+- 负责电竞新闻的采编、翻译与发布，并重点策划原创游戏策略及攻略内容。
+- 策划并执行专题报道，围绕热点事件和重要电竞赛事展开内容制作，有效提升品牌曝光与关注度。
+- 将“超凡电竞LOL”微博账号粉丝量从 200 万提升至 300 万，并获评“微博2019十大影响力游戏大V”。
+- 与英雄联盟国服官方合作，制作《英雄联盟》官方电竞栏目《超凡前瞻》（Super Preview）。
+- 部分重点文章全网阅读量超过 40 万。

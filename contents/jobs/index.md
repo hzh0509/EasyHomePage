@@ -1,19 +1,19 @@
 ---
 
-Badge: 'Employers'
-Title: 'All say he is good.'
+Badge: '履历'
+Title: '大家都说他还不错。'
 
 ---
 
-As a traveler, Henry has taken on many quests over the years, though most of them were low-level gigs.
+作为一个旅行者，这些年 Henry 也接过不少任务，只不过大多数都算不上什么高等级委托。
 
-Henry's quests have included:
+他的任务清单包括：
 
-* Writing news reports
-* Writing media scripts
-* Writing comic book scripts
-* Writing web novels
-* Writing homework
+* 写新闻报道
+* 写媒体脚本
+* 写漫画脚本
+* 写网络小说
+* 写作业
   
-It seems that Henry's skills are probably writing, and as far as how well he writes... Anyway, no one has ever told him to his face that he's bad. <br>
-Whether they've ever said it behind his back, well, he doesn't know.
+看起来 Henry 的技能点大概都加在“写东西”上了。至于写得到底怎么样……反正从来没人当着他的面说过他写得差。<br>
+背地里有没有说过，那他就不知道了。

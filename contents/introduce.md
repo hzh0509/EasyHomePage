@@ -1,22 +1,22 @@
 ---
 name: 'Zihan Huang'
-subtitle: 'An uninspired novelist, lost traveler.'
-button: 'Link Start!'
+subtitle: '一个没什么灵感的小说作者，一个迷路的旅行者。'
+button: '链接开始！'
 
 ---
 
-Hello, traveler, looking for something?
+你好，旅行者，在找什么吗？
 
-Welcome to the online bistro of Zihan Huang, aka Henry. Here, you'll find all his info—from basic details to impressive **Traits** and **Elements**, as well as the **Companies** that have hired him. 
+欢迎来到 Zihan Huang，也就是 Henry 的线上小酒馆。这里收录了关于他的各种信息——从基本资料，到还算拿得出手的 **技能** 与 **属性**，以及曾经雇佣过他的 **公司**。
 
-The purpose of this place? It's just a trace of his journey in this adventurous world.
+这个地方存在的意义？大概只是想在这片充满冒险的世界里，留下几道属于他的旅途痕迹。
 
-Before you grab a drink, there are a few things to note:
+在点杯喝的之前，有几件事要说明：
 
-* No mature content
-* Accessible during your quests
-* Viewable while resting at camp
-* Do not watch while fighting monsters
-* Always open for exploration
+* 不含成人内容
+* 冒险途中也可以访问
+* 在营地休息时可以浏览
+* 打怪时请勿观看
+* 随时开放探索
   
-Traveler, may this journey lead us starward!
+旅行者，愿这段旅程终将通向群星！

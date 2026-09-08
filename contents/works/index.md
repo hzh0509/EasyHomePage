@@ -1,5 +1,5 @@
 ---
 
-Badge: 'Side Hustle'
+Badge: '业余作品'
 
 ---

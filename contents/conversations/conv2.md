@@ -3,4 +3,4 @@ date: '2024-06-02'
 avatar: 'g3.png'
 ---
 
-Yeah, ever since then, he’s been on a quest to join the gaming industry. Despite his gaming obsession, he still managed to level up his grades and got into one of China's top universities, Central South University. Quite the scholar-gamer hybrid.
+从那以后，他就一直想着有一天能进入游戏行业。虽然玩游戏玩得很上头，成绩倒也没完全荒废，最后考进了中南大学。勉强算是一个学业和游戏两边都没彻底掉线的人。

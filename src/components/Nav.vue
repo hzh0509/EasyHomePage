@@ -4,7 +4,7 @@
             <div class="jn-logo">
                 <a class="navbar-brand flex align-items-center align-content-center" href="#">
                     <span>
-                        <img :src="logo" alt="logo" class="jn-logo-img">
+                        <img :src="logo" alt="网站标志" class="jn-logo-img">
                     </span>
                     <span class=" fw-bold  "> {{ attributes.Name }}</span>
                     <span class="fw-lighter" :title="attributes.AgeTitle">.v{{ age }}</span>
@@ -12,7 +12,7 @@
             </div>
 
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
-                aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="展开或收起导航">
                 <span class="navbar-toggler-icon bg-transparent "></span>
             </button>
             <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">

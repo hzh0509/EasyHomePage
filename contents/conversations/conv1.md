@@ -3,4 +3,4 @@ date: '2024-06-02'
 avatar: 'm1.png'
 ---
 
-Let me tell you about Henry. Born in '97, he stumbled upon his first online game, MapleStory, in 2003. That game was like a spell, drawing him into the world of gaming.
+说说 Henry 吧。他出生于 1997 年，2003 年偶然接触到了人生第一款网络游戏《冒险岛》。那款游戏就像一道魔法，把他一下子拉进了游戏世界。

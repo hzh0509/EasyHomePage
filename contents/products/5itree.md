@@ -1,11 +1,11 @@
 ---
 date: '2019-06-15'
-title: 'i-Tree Homepage Redesign'
+title: 'i-Tree 首页重设计'
 cover: 'itree.jpeg'
 url: '/'
 tags:
-  - Web Design
+  - 网页设计
   - HTML
 ---
 
-i-Tree is a powerful software suite that provides urban forestry analysis and benefits assessment tools. He redesigned their homepage to improve navigation and highlight their comprehensive resources for tree and forest management.
+i-Tree 是一套功能强大的软件工具，可提供城市林业分析与效益评估。他重新设计了其网站首页，以改善导航体验，并更清晰地展示树木和森林管理相关资源。

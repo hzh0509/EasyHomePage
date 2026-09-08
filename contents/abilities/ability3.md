@@ -1,8 +1,8 @@
 ---
 
 date: '2024-06-02'
-Title: 'Comic Script Writer'
+Title: '漫画编剧'
 icon: 'bi-easel'
 ---
 
-Serving as a main writer for the "Treasure Hunt" series and "Plants vs. Zombies" comics, writing scripts, and managing official social media accounts.
+担任《大中华寻宝记》系列和《植物大战僵尸》系列漫画的主要编剧之一，负责脚本创作以及官方社交媒体账号运营。

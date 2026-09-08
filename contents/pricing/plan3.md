@@ -1,15 +1,15 @@
 ---
 date: 2024-06-02
-Title: Play games online
-Subtitle: Playing games is the best thing on this planet, indeed.
+Title: 线上打游戏
+Subtitle: 打游戏确实是这个世界上最快乐的事情之一。
 Includes:
-    - Play whatever you want
-    - Fine stand-up comedy show
-    - Happy atmosphere
-    - Ongoing Praise
+    - 你想玩什么就玩什么
+    - 附赠优质单口相声
+    - 保证气氛愉快
+    - 持续提供夸夸服务
 Excludes:
-    - Can not ensure victory
-    - Possible to play badly
-    - Refuse horror games
-Price: CNY 9.9 / month
+    - 不保证能赢
+    - 有可能发挥很菜
+    - 拒绝恐怖游戏
+Price: 人民币 9.9 元 / 月
 ---

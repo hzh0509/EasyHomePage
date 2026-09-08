@@ -1,10 +1,10 @@
 ---
 date: '2020-06-18'
-title: 'The Celestial Swordman'
+title: '《猎天神道》'
 url: 'https://www.zongheng.com/detail/1047898'
 tags:
-  - Novel
-  - Sci-fi
+  - 小说
+  - 科幻
 ---
 
-His personal novel, published on zongheng.com and was signed by the site. But he never read it a second time after finishing it.
+他的个人小说，发表于纵横中文网并曾与网站签约。不过写完以后，他自己再也没有从头到尾读过第二遍。

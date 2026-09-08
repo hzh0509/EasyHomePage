@@ -1,9 +1,9 @@
 ---
 
 date: '2024-06-02'
-Title: 'Chef'
+Title: '厨师'
 icon: 'bi-cookie'
 
 ---
 
-Tinkering with some Chinese cuisine at home, Hunan cuisine being the favorite.
+平时喜欢在家折腾一些中餐，最喜欢做的还是湘菜。

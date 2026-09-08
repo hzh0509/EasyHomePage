@@ -1,14 +1,14 @@
 ---
 date: '2023-07-03'
-title: 'Student'
+title: '学生'
 id: 'su'
-company: 'Syracuse University'
+company: '雪城大学'
 range: '2023 - 2024'
 url: 'https://www.syracuse.edu/?ref=cybrhome'
 ---
-Syracuse University is a private research university located in Syracuse, New York, USA.
+雪城大学是一所位于美国纽约州锡拉丘兹的私立研究型大学。
 
-- Core Courses: Advanced Media Business; Web Development & Design for Media; Content Management, Development & Innovation; The Changing Media Landscape.
-- Redesigned the i-Tree and Syracuse Poster Project homepages to address current design pain points. 
-- Dedicated to driving business growth through BeyondMeat, aims to boost brand awareness and reshape market perceptions to expand our media influence.
-- Participated in the school's No-code Hackathon event with a team of three classmates, designing a learning app called BookTalk for neurodiverse individuals. 
+- 核心课程：高级媒体商业、媒体 Web 开发与设计、内容管理/开发与创新、变化中的媒体生态。
+- 针对现有设计痛点，重新设计 i-Tree 与 Syracuse Poster Project 的网站首页。
+- 围绕 Beyond Meat 开展商业增长方案，目标是提升品牌认知、改变市场固有印象，并扩大其媒体影响力。
+- 与三位同学组队参加学校的 No-Code Hackathon，为神经多样性群体设计名为 BookTalk 的学习 App。

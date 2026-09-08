@@ -1,11 +1,11 @@
 ---
 date: '2023-11-15'
-title: 'Beyond Meat Business Analysis'
+title: 'Beyond Meat 商业分析'
 cover: 'bm.png'
 url: '/'
 tags:
-  - Business Analysis
-  - Report
+  - 商业分析
+  - 报告
 ---
 
-Beyond Meat Business Analysis aims to enhance brand awareness and challenge market stereotypes, expanding the company's media influence and future reach.
+Beyond Meat 商业分析项目旨在提升品牌认知、挑战市场中的固有印象，并进一步扩大公司的媒体影响力与未来触达范围。

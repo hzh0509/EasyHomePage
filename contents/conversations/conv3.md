@@ -3,4 +3,4 @@ date: '2024-06-02'
 avatar: 'g1.png'
 ---
 
-After graduation, he landed not one but two jobs in Shanghai. While he didn’t score a role in a game company, he’s still living comfortably. His only regret is that he hasn't been able to find a girlfriend so far.
+毕业以后，他在上海先后找到了两份工作。虽然始终没能进入游戏公司，日子倒也过得还算舒服。唯一的遗憾，大概就是到现在还没找到女朋友。

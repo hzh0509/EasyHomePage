@@ -1,10 +1,10 @@
 ---
 
-Badge: 'Core Production'
-Title: 'Love creating, and also learning.'
+Badge: '主要项目'
+Title: '喜欢创作，也一直在学习。'
 
 ---
 
-He loves to create and dreams of becoming a great storyteller like Fujiko F. Fujio, the author of the world famous cartoon character, Doraemon.
+他喜欢创造，也一直梦想成为像藤子·F·不二雄那样优秀的故事讲述者——毕竟，那可是创造了世界知名漫画角色哆啦A梦的人。
 
 

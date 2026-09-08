@@ -1,13 +1,13 @@
 ---
 date: '2021-06-15'
-title: 'Treasure Hunt-Power Station'
+title: '《大中华寻宝记·神兽发电站》'
 cover: 'ps.png'
 url: '/'
 tags:
-  - Comics
-  - Children Targeting
-  - Daily
+  - 漫画
+  - 少儿向
+  - 日常
  
 ---
 
-"Treasure Hunt-Power Station" is an important sub-section of the "Treasure Hunt" comic book series. It introduces children to various scientific and historical facts through the daily stories of the creatures.
+《神兽发电站》是《大中华寻宝记》漫画系列的重要子栏目之一，通过神兽们的日常故事，向孩子们介绍各种科学与历史知识。

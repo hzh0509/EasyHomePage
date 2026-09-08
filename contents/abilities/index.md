@@ -1,18 +1,18 @@
 ---
 
-Badge: 'Skills'
-Title: 'A pure romantic guy'
+Badge: '技能'
+Title: '一个纯粹的浪漫主义者'
 
 ---
 
-Henry gained quite a few skill points as he continued to upgrade on his adventures.
+随着冒险一路升级，Henry 也攒下了不少技能点。
 
-He has an understanding of what it means to point a skill, though, which leads to his final choice of sub-profession turning out to be this:
+他多少明白技能点该怎么加，于是最后点出来的副职业大概是：
 
-* Digital Content Manager
-* Literary Creative Constructor
-* Visual Narrative Orchestrator
-* Magical Cuisine Creator
+* 数字内容管理者
+* 文学创意构筑师
+* 视觉叙事编排师
+* 魔法料理制造者
 
-Is it hard to read? It's okay; it's just stated that way to appear professional.<br>
-In short, he is a new media operator, novelist, comic book writer, and cook (although the last bit isn't his real profession).
+看起来很难懂？没关系，只是为了显得专业才这么写。<br>
+简单来说，他就是新媒体运营、小说作者、漫画编剧和厨子（虽然最后一个并不是他的正经职业）。

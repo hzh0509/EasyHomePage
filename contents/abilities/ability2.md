@@ -1,9 +1,9 @@
 ---
 
 date: '2024-06-02'
-Title: 'Novelist'
+Title: '小说作者'
 icon: 'bi-book'
 
 ---
 
-Writes some boring Chinese web novels purely as a personal hobby and was once signed by Zongheng.com.
+纯粹出于个人爱好写一些没什么意思的中文网文，曾经还和纵横中文网签过约。

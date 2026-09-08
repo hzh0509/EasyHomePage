@@ -3,4 +3,4 @@ date: '2024-06-02'
 avatar: 'm4.png'
 ---
 
-Henry’s always on the hunt for new adventures and tech treasures. He spends most of his gold on the latest gadgets and the rest on feasts with friends. He’s got this generous, carefree vibe, always looking out for his party.
+Henry 总喜欢寻找新的冒险和科技宝藏。他的大部分金币都花在最新的数码产品上，剩下的则拿去和朋友吃吃喝喝。性格大概算是随性又大方，也总愿意照顾队伍里的其他人。

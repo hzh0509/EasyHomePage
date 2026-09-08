@@ -1,12 +1,12 @@
 ---
 date: '2021-06-15'
-title: 'Treasure Hunt-Small Theater'
+title: '《大中华寻宝记·神兽小剧场》'
 cover: 'st.png'
 url: '/'
 tags:
-  - Comics
-  - Children Targeting
-  - Daily  
+  - 漫画
+  - 少儿向
+  - 日常  
 ---
 
-"Treasure Hunt-Small Theater" is an important sub-section of the "Treasure Hunt" comic book series. It builds a humorous, everyday story through the human figures of the divine beasts.
+《神兽小剧场》是《大中华寻宝记》漫画系列的重要子栏目之一，通过神兽的人形角色展开轻松幽默的日常故事。

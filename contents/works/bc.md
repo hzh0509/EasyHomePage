@@ -1,11 +1,11 @@
 ---
 date: '2016-06-18'
-title: 'Bilibili Channel'
+title: 'B站个人频道'
 url: 'https://space.bilibili.com/755319/'
 tags:
-  - Video
-  - Film Cut
-  - Second Creation
+  - 视频
+  - 影视剪辑
+  - 二创
 ---
 
-His personal Bilibili channel, will be uploading some videos of my own making from time to time. Has a section called "Those Comics We Read Years Ago," but it stopped updating indefinitely because the author was too lazy.
+他的个人 B 站频道，偶尔会上传一些自己制作的视频。曾经做过一个叫“那些年我们看过的漫画”的栏目，不过后来因为作者太懒，已经无限期停更。

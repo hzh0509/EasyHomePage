@@ -1,5 +1,5 @@
 ---
 
-Badge: 'Kudos'
+Badge: '闲聊'
 
 ---

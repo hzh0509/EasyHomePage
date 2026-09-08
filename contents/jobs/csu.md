@@ -1,16 +1,16 @@
 ---
 date: '2015-09-01'
-title: 'Student'
+title: '学生'
 id: 'csu'
-company: 'Central South University'
+company: '中南大学'
 range: '2015 - 2019'
 url: 'https://www.csu.edu.cn/'
 ---
 
-Central South University (CSU) is a public research-oriented comprehensive university in China.
+中南大学是一所位于中国的公立研究型综合大学。
 
-- Major: Digital Publishing
-- Core Courses: Digital Media Technology and Application, Digital Publishing Marketing and Management, Network Society and Network Culture.
-- Worked with the team on two short films: "Growing Up" and "More Than Meet With You," exploring the themes of personal growth and interpersonal relationships through visual narratives.
-- Thesis "Analysis of Online Game Marketing Strategy": Taking the popular online game "DNF" as the research object, deeply analyzed the marketing strategy of current online gaming.
+- 专业：数字出版
+- 核心课程：数字媒体技术与应用、数字出版营销与管理、网络社会与网络文化。
+- 与团队共同完成两部短片《成长》（Growing Up）和《不只是遇见你》（More Than Meet With You），通过视觉叙事探讨个人成长与人际关系。
+- 毕业论文《网络游戏营销策略分析》：以热门网络游戏《DNF》为研究对象，对当时网络游戏的营销策略进行分析。
   
