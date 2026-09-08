@@ -3,7 +3,7 @@ name: Deploy Bilingual Vue App
 on:
   push:
     branches:
-      - homepage1
+      - main
     paths-ignore:
       - 'docs/**'
   workflow_dispatch:
@@ -19,7 +19,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          ref: homepage1
+          ref: main
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
@@ -38,4 +38,4 @@ jobs:
           git config --local user.name "GitHub Action"
           git add docs
           git diff --cached --quiet || git commit -m "Deploy bilingual site"
-          git push origin HEAD:homepage1
+          git push origin HEAD:homepage1 --force
