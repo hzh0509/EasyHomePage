@@ -6,19 +6,25 @@
                     <span>
                         <img :src="logo" alt="logo" class="jn-logo-img">
                     </span>
-                    <span class=" fw-bold  "> {{ attributes.Name }}</span>
+                    <span class="fw-bold">{{ attributes.Name }}</span>
                     <span class="fw-lighter" :title="attributes.AgeTitle">.v{{ age }}</span>
                 </a>
             </div>
 
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
                 aria-controls="navbarNavAltMarkup" aria-expanded="false" :aria-label="attributes.ToggleNavigation">
-                <span class="navbar-toggler-icon bg-transparent "></span>
+                <span class="navbar-toggler-icon bg-transparent"></span>
             </button>
+
             <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
-                <div class="navbar-nav">
+                <div class="navbar-nav align-items-lg-center">
                     <a v-for="item in ['Introduce','Conversations', 'Abilities', 'Jobs', 'Products', 'Works', 'Pricing', 'Footer']"
                         :key="item" class="nav-link" :href="`#${item}`">{{ attributes[item] }}</a>
+                    <div class="jn-language-switch ms-lg-3 mt-2 mt-lg-0" aria-label="Language switcher">
+                        <a href="/cn/" class="jn-language-link" :class="{ active: currentLanguage === 'cn' }">中文</a>
+                        <span class="jn-language-divider">/</span>
+                        <a href="/en/" class="jn-language-link" :class="{ active: currentLanguage === 'en' }">EN</a>
+                    </div>
                 </div>
             </div>
         </nav>
@@ -31,6 +37,7 @@ import { attributes } from '@content/nav.md';
 import logo from '/contents/logo.png';
 
 const age = ref(0);
+const currentLanguage = window.location.pathname.startsWith('/cn') ? 'cn' : 'en';
 
 const calAge = () => {
     const now = new Date();
@@ -68,5 +75,38 @@ onMounted(() => {
     height: 28pt;
     border-radius: 50%;
     margin-right: 10px;
+}
+
+.jn-language-switch {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0.22rem 0.6rem;
+    border: 1px solid rgba(115, 17, 145, 0.22);
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.72);
+    width: fit-content;
+}
+
+.jn-language-link {
+    color: var(--bs-secondary-color);
+    text-decoration: none;
+    font-size: 0.82rem;
+    font-weight: 600;
+    line-height: 1.2;
+}
+
+.jn-language-link:hover,
+.jn-language-link.active {
+    color: var(--purple);
+}
+
+.jn-language-link.active {
+    font-weight: 800;
+}
+
+.jn-language-divider {
+    color: rgba(0, 0, 0, 0.28);
+    font-size: 0.75rem;
 }
 </style>
