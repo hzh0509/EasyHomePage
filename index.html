@@ -1,10 +1,10 @@
 <!doctype html>
-<html lang="en-US">
+<html lang="__HTML_LANG__">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Henry/Zihan's Online Bistro" />
-  <title>Henry/Zihan's Online Bistro</title>
+  <meta name="description" content="__META_DESCRIPTION__" />
+  <title>__PAGE_TITLE__</title>
   <link rel="icon" href="logos/logo.png">
   <link rel="icon" type="image/svg+xml" href="favicon.ico">
 
@@ -36,26 +36,20 @@
     }
 
     @keyframes spin {
-      0% {
-        transform: rotate(0deg);
-      }
-
-      100% {
-        transform: rotate(360deg);
-      }
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
     }
   </style>
 </head>
 
 <body>
   <div id="jn-loading" class="jn-loading">
-    <div class="jn-spinner "></div>
+    <div class="jn-spinner"></div>
     <div class="jn-spinner-text">
-      <p>Loading...</p>
+      <p>__LOADING_TEXT__</p>
     </div>
   </div>
   <div id="app"></div>
   <script type="module" src="./src/main.js"></script>
 </body>
-
 </html>

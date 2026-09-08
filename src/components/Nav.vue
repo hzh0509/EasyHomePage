@@ -12,15 +12,13 @@
             </div>
 
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
-                aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                aria-controls="navbarNavAltMarkup" aria-expanded="false" :aria-label="attributes.ToggleNavigation">
                 <span class="navbar-toggler-icon bg-transparent "></span>
             </button>
             <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
-                <!-- 导航循环 -->
                 <div class="navbar-nav">
                     <a v-for="item in ['Introduce','Conversations', 'Abilities', 'Jobs', 'Products', 'Works', 'Pricing', 'Footer']"
-                        :key="item" class="nav-link" :href="`#${item}`">{{
-                        attributes[item] }}</a>
+                        :key="item" class="nav-link" :href="`#${item}`">{{ attributes[item] }}</a>
                 </div>
             </div>
         </nav>
@@ -29,7 +27,7 @@
 
 <script setup>
 import { ref, onMounted } from 'vue';
-import { attributes } from '/contents/nav.md';
+import { attributes } from '@content/nav.md';
 import logo from '/contents/logo.png';
 
 const age = ref(0);
@@ -47,7 +45,6 @@ const calAge = () => {
 onMounted(() => {
     calAge();
 });
-
 </script>
 
 <style scoped>
