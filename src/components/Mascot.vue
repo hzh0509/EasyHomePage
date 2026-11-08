@@ -132,8 +132,9 @@ onBeforeUnmount(clearAll);
 <style scoped>
 .jn-mascot {
   position: absolute;
-  /* 站定后落在右侧空白区（col-6）的正中间 */
-  right: 14%;
+  /* 定位在右列（col-6）内水平居中，不再猜百分比 */
+  left: 50%;
+  transform: translateX(-50%);
   /* 画布底边落在区块内部，而不是贴区块底边：
      睡姿的臀在画布底往上 31%，站起来脚正好落到画布底，
      所以"坐着的框沿"和"站定的地面"天然差一个身位，全程不出首屏区块 */
