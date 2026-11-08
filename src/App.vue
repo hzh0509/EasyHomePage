@@ -59,7 +59,7 @@ hideLoading();
 
 
 onMounted(() => {
-  scrollEffect('.jn-introduce-bg', 200, 'bottom', false);
+  scrollEffect('.jn-mascot', 200, 'bottom', false);
   scrollEffect('.jn-introduce-title', 600, 'top', false);
   scrollEffect('.jn-introduce-subtitle', 600, 'left', false);
   scrollEffect('.jn-introduce-doc', 1600, 'bottom', false);

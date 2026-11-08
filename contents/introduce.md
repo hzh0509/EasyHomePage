@@ -2,6 +2,11 @@
 name: 'Zihan Huang'
 subtitle: 'An uninspired novelist, lost traveler.'
 button: 'Link Start!'
+mascot:
+  - 'Oh, a traveler.'
+  - 'Welcome to the bistro.'
+  - 'Grab a drink and stay a while.'
+  - 'Careful, the floor creaks.'
 
 ---
 

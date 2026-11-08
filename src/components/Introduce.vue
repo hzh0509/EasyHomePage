@@ -11,8 +11,8 @@
                 </div>
             </div>
         </div>
-        <div v-if="!isMobile" class="col-6 px-4 pt-4">
-            <div class="jn-introduce-bg"></div>
+        <div v-if="!isMobile" class="col-6 px-4 pt-4 jn-introduce-figure">
+            <Mascot :lines="attributes.mascot" />
         </div>
     </div>
 </template>
@@ -20,6 +20,7 @@
 <script setup>
 import { computed, ref } from 'vue';
 import { useMainStore } from '@/store';
+import Mascot from './Mascot.vue';
 import { html, attributes } from '@content/introduce.md';
 
 const store = useMainStore();
@@ -44,12 +45,9 @@ formattedHtml.value = formatHtml(html);
 .jn-h3 { font-size: 3rem; font-weight: 700; color: var(--purple); }
 .jn-h2-mobile { font-size: 3.5rem; font-weight: 700; color: #000; }
 .jn-h3-mobile { font-size: 2.1rem; font-weight: 700; color: var(--purple); }
-.jn-introduce-img { height: 100%; }
-.jn-introduce-bg {
-    background-image: url('/contents/memoji.png');
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-    height: 100%;
+.jn-introduce-figure {
+    display: flex;
+    align-items: stretch;
+    min-height: 420pt;
 }
 </style>
