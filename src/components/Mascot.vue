@@ -134,7 +134,16 @@ onBeforeUnmount(clearAll);
   position: absolute;
   right: -6px;
   bottom: 0;
-  height: 88%;
+  /* 父级只有 min-height，百分比高度解析不到，直接用视口高度 */
+  height: 72vh;
+  min-height: 460px;
+  max-height: 780px;
+  /* Bootstrap 的 .row > * 会强制 width:100% 和左右 padding，
+     这里必须全部覆盖，否则容器会占满整行、人物被推到最左边 */
+  width: auto;
+  max-width: none;
+  padding: 0;
+  margin: 0;
   z-index: 3;
   cursor: pointer;
   -webkit-tap-highlight-color: transparent;
