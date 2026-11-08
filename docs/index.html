@@ -6,9 +6,11 @@
   <title>Henry / Zihan</title>
   <script>
     const language = (navigator.language || '').toLowerCase();
-    location.replace(language.startsWith('zh') ? '/cn/' : '/en/');
+    window.location.replace(language.startsWith('zh') ? '/cn/' : '/en/');
   </script>
   <noscript><meta http-equiv="refresh" content="0; url=/en/"></noscript>
 </head>
-<body><a href="/en/">English</a> · <a href="/cn/">中文</a></body>
+<body>
+  <p><a href="/en/">English</a> · <a href="/cn/">中文</a></p>
+</body>
 </html>
