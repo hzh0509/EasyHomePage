@@ -133,11 +133,13 @@ onBeforeUnmount(clearAll);
 .jn-mascot {
   position: absolute;
   right: -6px;
-  bottom: 0;
-  /* 父级只有 min-height，百分比高度解析不到，直接用视口高度 */
-  height: 72vh;
-  min-height: 460px;
-  max-height: 780px;
+  /* 画布底边落在区块内部，而不是贴区块底边：
+     睡姿的臀在画布底往上 31%，站起来脚正好落到画布底，
+     所以"坐着的框沿"和"站定的地面"天然差一个身位，全程不出首屏区块 */
+  bottom: 24px;
+  height: 84vh;
+  min-height: 520px;
+  max-height: 880px;
   /* Bootstrap 的 .row > * 会强制 width:100% 和左右 padding，
      这里必须全部覆盖，否则容器会占满整行、人物被推到最左边 */
   width: auto;
@@ -149,7 +151,7 @@ onBeforeUnmount(clearAll);
   -webkit-tap-highlight-color: transparent;
   /* 补偿：素材里臀与踩着的脚不在同一水平线，整体微倾让鞋底落到区块边界上 */
   --tilt: -6deg;
-  --drop: 31%;
+  --drop: 0%;
   --pivot-x: 55%;
   --pivot-y: 69%;
 }
