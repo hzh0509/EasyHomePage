@@ -6,7 +6,22 @@
     @mouseleave="onLeave"
     @click="onPoke"
   >
-    <img class="jn-mascot-img" :src="frameSrc" alt="Zihan Huang" draggable="false" />
+    <!-- 过渡用的旧帧：绝对定位盖在原图下面，切换时淡出 -->
+    <img
+      v-if="ghost"
+      class="jn-mascot-img jn-mascot-ghost"
+      :class="{ 'is-fading': !fadeOn }"
+      :src="ghost"
+      alt=""
+      draggable="false"
+    />
+    <img
+      class="jn-mascot-img"
+      :class="{ 'is-fading': fadeOn }"
+      :src="current"
+      alt="Zihan Huang"
+      draggable="false"
+    />
 
     <div v-if="phase === 'sleep'" class="jn-mascot-zzz" aria-hidden="true">
       <span class="z1">z</span><span class="z2">z</span><span class="z3">Z</span>
@@ -21,8 +36,8 @@
 <script setup>
 import { ref, computed, onMounted, onBeforeUnmount } from 'vue';
 
-// 所有帧由同一段绿幕视频/静帧抠像而来，共享同一个 420x936 画布，
-// 因此无论切到哪一帧，人物位置都不会跳。
+// 所有帧由同一套素材导出，共享同一个 420x936 画布，
+// 因此切换状态时人物位置不会跳，只需要处理画风差异带来的"硬切"。
 const modules = import.meta.glob('../assets/mascot/*.webp', { eager: true, query: '?url', import: 'default' });
 const url = (name) => modules[`../assets/mascot/${name}.webp`];
 
@@ -39,23 +54,20 @@ const props = defineProps({
 
 const WAKE_FPS = 12;
 const SLEEP_MS = 3000;
+const FADE_MS = 300;
 
 const phase = ref('sleep');
-const frameIdx = ref(0);
+const current = ref(sleepSrc);
+const ghost = ref('');
+const fadeOn = ref(false);
 const hovering = ref(false);
 const poking = ref(false);
 const bubble = ref('');
 
-const frameSrc = computed(() => {
-  if (phase.value === 'wake') return wakeFrames[frameIdx.value] || idleSrc;
-  return phase.value === 'sleep' ? sleepSrc : idleSrc;
-});
-
-const fallbackLines = ['……', 'Hi.'];
-const lines = computed(() => (props.lines && props.lines.length ? props.lines : fallbackLines));
-
 let timers = [];
 let wakeTimer = null;
+let fadeTimer = null;
+
 const later = (fn, ms) => {
   const id = setTimeout(fn, ms);
   timers.push(id);
@@ -64,11 +76,33 @@ const later = (fn, ms) => {
 const clearAll = () => {
   timers.forEach(clearTimeout);
   timers = [];
-  if (wakeTimer) {
-    clearInterval(wakeTimer);
-    wakeTimer = null;
-  }
+  if (wakeTimer) clearInterval(wakeTimer);
+  if (fadeTimer) clearTimeout(fadeTimer);
+  wakeTimer = null;
+  fadeTimer = null;
 };
+
+// 状态切换时交叉淡化，避免两张不同生成的图硬切
+const crossFade = (src) => {
+  if (src === current.value) return;
+  ghost.value = current.value;
+  current.value = src;
+  fadeOn.value = true;
+
+  requestAnimationFrame(() => {
+    requestAnimationFrame(() => {
+      fadeOn.value = false;
+    });
+  });
+
+  if (fadeTimer) clearTimeout(fadeTimer);
+  fadeTimer = setTimeout(() => {
+    ghost.value = '';
+  }, FADE_MS + 80);
+};
+
+const fallbackLines = ['……', 'Hi.'];
+const lines = computed(() => (props.lines && props.lines.length ? props.lines : fallbackLines));
 
 const say = (ms = 2400) => {
   bubble.value = lines.value[Math.floor(Math.random() * lines.value.length)];
@@ -79,15 +113,18 @@ const say = (ms = 2400) => {
 
 const playWake = () => {
   phase.value = 'wake';
-  frameIdx.value = 0;
+  crossFade(wakeFrames[0]);
+  let i = 0;
   wakeTimer = setInterval(() => {
-    if (frameIdx.value >= wakeFrames.length - 1) {
+    if (i >= wakeFrames.length - 1) {
       clearInterval(wakeTimer);
       wakeTimer = null;
       phase.value = 'idle';
+      crossFade(idleSrc);
       return;
     }
-    frameIdx.value += 1;
+    i += 1;
+    current.value = wakeFrames[i];
   }, 1000 / WAKE_FPS);
 };
 
@@ -95,11 +132,9 @@ const onEnter = () => {
   hovering.value = true;
   if (phase.value !== 'sleep') say();
 };
-
 const onLeave = () => {
   hovering.value = false;
 };
-
 const onPoke = () => {
   poking.value = true;
   say(1700);
@@ -109,7 +144,6 @@ const onPoke = () => {
 };
 
 onMounted(() => {
-  // 首屏画完之后再预取惊醒序列，避免 3 秒切帧时卡一下
   const warm = () => {
     [...wakeFrames, idleSrc].forEach((src) => {
       const img = new Image();
@@ -121,6 +155,7 @@ onMounted(() => {
 
   if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
     phase.value = 'idle';
+    current.value = idleSrc;
     return;
   }
   later(playWake, SLEEP_MS);
@@ -135,9 +170,6 @@ onBeforeUnmount(clearAll);
   /* 定位在右列（col-6）内水平居中，不再猜百分比 */
   left: 50%;
   transform: translateX(-50%);
-  /* 画布底边落在区块内部，而不是贴区块底边：
-     睡姿的臀在画布底往上 31%，站起来脚正好落到画布底，
-     所以"坐着的框沿"和"站定的地面"天然差一个身位，全程不出首屏区块 */
   bottom: 24px;
   height: 84vh;
   min-height: 520px;
@@ -151,7 +183,6 @@ onBeforeUnmount(clearAll);
   z-index: 3;
   cursor: pointer;
   -webkit-tap-highlight-color: transparent;
-  /* 补偿：素材里臀与踩着的脚不在同一水平线，整体微倾让鞋底落到区块边界上 */
   --tilt: -6deg;
   --drop: 0%;
   --pivot-x: 55%;
@@ -164,12 +195,23 @@ onBeforeUnmount(clearAll);
   width: auto;
   transform: translateY(var(--drop)) rotate(var(--tilt));
   transform-origin: var(--pivot-x) var(--pivot-y);
-  transition: filter 0.4s ease;
+  transition: filter 0.4s ease, opacity 0.3s ease;
   user-select: none;
   filter: drop-shadow(0 18px 26px rgba(15, 18, 33, 0.12));
 }
 
-/* 睡着的呼吸：整张图极缓地上下浮动，不做缩放，避免边缘抖动 */
+/* 旧帧叠在新帧之上、原位重合，随淡入淡出一起变化 */
+.jn-mascot-ghost {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  pointer-events: none;
+}
+
+.jn-mascot-img.is-fading {
+  opacity: 0;
+}
+
 .is-sleep .jn-mascot-img {
   animation: jn-doze 6.4s ease-in-out infinite;
 }
@@ -262,7 +304,7 @@ onBeforeUnmount(clearAll);
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .jn-mascot-img { animation: none !important; }
+  .jn-mascot-img { animation: none !important; transition: none; }
   .jn-mascot-zzz span { animation: none; opacity: 0; }
 }
 </style>
